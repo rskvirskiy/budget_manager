@@ -12,6 +12,7 @@
 /db/*.sqlite3-journal
 /vendor
 /log
+.idea/
 
 # Ignore all logfiles and tempfiles.
 /log/*.log

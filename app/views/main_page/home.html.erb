@@ -1,0 +1,4 @@
+<h1>Start Page</h1>
+<% if user_signed_in? %>
+    <h2> Your email is <%= current_user.email %> </h2>
+<% end %>
